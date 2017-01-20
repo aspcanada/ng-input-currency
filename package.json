@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jstroem/ng-input-currency.git"
+    "url": "https://github.com/aspcanada/ng-input-currency.git"
   },
   "keywords": [
     "angular",
@@ -20,11 +20,11 @@
     "input",
     "format"
   ],
-  "author": "Jesper Lindstrøm Nielsen <me@jstroem.com>",
+  "author": "Alain St Pierre <alain@aspcanada.com>",
   "bugs": {
-    "url": "https://github.com/jstroem/ng-input-currency/issues"
+    "url": "https://github.com/aspcanada/ng-input-currency/issues"
   },
-  "homepage": "https://github.com/jstroem/ng-input-currency",
+  "homepage": "https://github.com/aspcanada/ng-input-currency",
   "devDependencies": {
     "angular": "^1.6.1",
     "angular-i18n": "^1.6.1",

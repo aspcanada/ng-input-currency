@@ -26,5 +26,5 @@ module.exports = function (config) {
       'dist/ng-input-currency.js': ['coverage']
     },
     reporters: ['progress', 'coverage']
-  })
-}
+  });
+};

@@ -1,12 +1,12 @@
 # ng-input-currency
 
-[![Build Status](https://travis-ci.org/jstroem/ng-input-currency.svg?branch=master)](https://travis-ci.org/jstroem/ng-input-currency)
-[![Coverage Status](https://coveralls.io/repos/github/jstroem/ng-input-currency/badge.svg?branch=master)](https://coveralls.io/github/jstroem/ng-input-currency?branch=master)
+[![Build Status](https://travis-ci.org/aspcanada/ng-input-currency.svg?branch=master)](https://travis-ci.org/aspcanada/ng-input-currency)
+[![Coverage Status](https://coveralls.io/repos/github/aspcanada/ng-input-currency/badge.svg?branch=master)](https://coveralls.io/github/aspcanada/ng-input-currency?branch=master)
 ![][bower]
 [![npm]](https://www.npmjs.com/package/ng-input-currency)
 
-[build]: https://img.shields.io/travis/project/jstroem/ng-input-currency.svg?branch=master&style=flat-square
-[coverage]: http://img.shields.io/coveralls/jstroem/ng-input-currency.svg?branch=master&style=flat-square
+[build]: https://img.shields.io/travis/project/aspcanada/ng-input-currency.svg?branch=master&style=flat-square
+[coverage]: http://img.shields.io/coveralls/aspcanada/ng-input-currency.svg?branch=master&style=flat-square
 [bower]: https://img.shields.io/bower/v/ng-input-currency.svg?style=flat-square
 [npm]: https://img.shields.io/npm/v/ng-input-currency.svg?style=flat-square
 
@@ -14,7 +14,7 @@ Angular directive for formatting inputs as currency fields. This repo is inspire
 
 ## Demo
 
-http://jstroem.github.io/ng-input-currency/demo
+http://aspcanada.github.io/ng-input-currency/demo
 
 ## Installation
 

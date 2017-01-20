@@ -3,7 +3,7 @@
   "description": "input formatter as currency with Angular",
   "main": "dist/ng-input-currency.js",
   "authors": [
-    "Jesper Lindstrøm Nielsen <me@jstroem.com>"
+    "Alain St Pierre <alain@aspcanada.com>"
   ],
   "license": "MIT",
   "keywords": [
@@ -12,7 +12,7 @@
     "input",
     "format"
   ],
-  "homepage": "https://github.com/jstroem/ng-input-currency",
+  "homepage": "https://github.com/aspcanada/ng-input-currency",
   "moduleType": [],
   "ignore": [
     "**/.*",
