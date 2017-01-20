@@ -1,9 +1,6 @@
 # ng-input-currency
 
 [![Build Status](https://travis-ci.org/aspcanada/ng-input-currency.svg?branch=master)](https://travis-ci.org/aspcanada/ng-input-currency)
-[![Coverage Status](https://coveralls.io/repos/github/aspcanada/ng-input-currency/badge.svg?branch=master)](https://coveralls.io/github/aspcanada/ng-input-currency?branch=master)
-![][bower]
-[![npm]](https://www.npmjs.com/package/ng-input-currency)
 
 [build]: https://img.shields.io/travis/project/aspcanada/ng-input-currency.svg?branch=master&style=flat-square
 [coverage]: http://img.shields.io/coveralls/aspcanada/ng-input-currency.svg?branch=master&style=flat-square
@@ -18,10 +15,9 @@ http://aspcanada.github.io/ng-input-currency/demo
 
 ## Installation
 
-Install via bower or NPM:
+Install via bower:
 
-- Bower: `bower install --save ng-input-currency`
-- NPM: `npm install --save ng-input-currency`
+- Bower: `bower install git://github.com/aspcanada/ng-input-currency`
 
 ## Usage
 
